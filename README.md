@@ -1,6 +1,8 @@
 # GreenBeing: Ecological Momentary Assessment of Green Spaces and Mental Wellbeing
 
-GreenBeing is an innovative research project developed for my Master's thesis, focusing on understanding the impact of green spaces on mental wellbeing through Ecological Momentary Assessment (EMA). This project utilizes Java for backend development, integrating with APIs such as Twilio for messaging, Google Cloud Vision for image analysis, and AWS S3 for data storage. The project facilitates real-time data collection and analysis on the relationship between individuals' exposure to green spaces and their mental wellbeing, using WhatsApp as a chatbot interface.
+GreenBeing is an innovative research project developed for my Master's thesis (which achieved a mark of 77), focusing on understanding the impact of green spaces on mental wellbeing through Ecological Momentary Assessment (EMA). This project utilises Java for backend development, integrating with APIs such as Twilio for messaging, Google Cloud Vision for image analysis, and AWS S3 for data storage. The project facilitates real-time data collection and analysis on the relationship between individuals' exposure to green spaces and their mental wellbeing, using WhatsApp as a chatbot interface.
+
+The thesis is available for viewing in this repository.
 
 ## Project Overview
 
@@ -8,9 +10,7 @@ This repository contains the Java source code developed for the GreenBeing proje
 
 ## Source Files
 
-The project comprises several Java classes, each serving a specific role in the application:
-
-- `Main.java`: Initializes the application and sets up the server to receive messages from Twilio.
+- `Main.java`: Initialises the application and sets up the server to receive messages from Twilio.
 - `MessageSender.java`: Handles the sending of messages and images to participants through Twilio.
 - `Participant.java`: Manages participant information and survey responses.
 - `Conversation.java`: Manages the state and progression of conversations with participants.
