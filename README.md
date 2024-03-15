@@ -44,7 +44,7 @@ This repository contains the Java source code developed for the GreenBeing proje
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/greenbeing.git
+git clone https://github.com/oscardilkes/greenbeing.git
 ```
 2. Install Dependencies
 ```bash
