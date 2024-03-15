@@ -1,8 +1,14 @@
-# GreenBeing: Ecological Momentary Assessment of Green Spaces and Mental Wellbeing
+# Greenbeing: Ecological Momentary Assessment of Green Spaces and Mental Wellbeing
 
-GreenBeing is an innovative research project developed for my Master's thesis (which achieved a mark of 77), focusing on understanding the impact of green spaces on mental wellbeing through Ecological Momentary Assessment (EMA). This project utilises Java for backend development, integrating with APIs such as Twilio for messaging, Google Cloud Vision for image analysis, and AWS S3 for data storage. The project facilitates real-time data collection and analysis on the relationship between individuals' exposure to green spaces and their mental wellbeing, using WhatsApp as a chatbot interface.
+Greenbeing is an innovative research project developed for my Master's thesis (which achieved a mark of 77), focusing on understanding the impact of green spaces on mental wellbeing through Ecological Momentary Assessment (EMA). This project utilises Java for backend development, integrating with APIs such as Twilio for messaging, Google Cloud Vision for image analysis, and AWS S3 for data storage. The project facilitates real-time data collection and analysis on the relationship between individuals' exposure to green spaces and their mental wellbeing, using WhatsApp as a chatbot interface.
+
+Greenbeing reaffirmed existing findings through a bifaceted "greenness analysis" approach, utilising both location data alongside OS maps for a location-based greenness approach, and the use of participant photography alongside Google's cloud vision for an image-based greenness approach.
 
 The thesis is available for viewing in this repository.
+
+## Findings
+- The findings contradicted existing research on gender's effect in mediating the relationship between greenspace walking and menetal wellbeing, suggesting that the effect was stronger in those who identified as female, whereas previous research indicated that the effect was stronger in those who identify as male.
+- A novel finding was uncovered in that workplace greenness mediates the relationship between greenspace walking and mental wellbeing such that the effect is stronger amongst those whose workplaces scored a lower greenness rating.
 
 ## Project Overview
 
