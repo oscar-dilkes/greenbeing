@@ -7,7 +7,7 @@ Greenbeing reaffirmed existing findings through a bifaceted "greenness analysis"
 The thesis is available for viewing in this repository.
 
 ## Findings
-- The findings contradicted existing research on gender's effect in mediating the relationship between greenspace walking and menetal wellbeing, suggesting that the effect was stronger in those who identified as female, whereas previous research indicated that the effect was stronger in those who identify as male.
+- The findings contradicted existing research on gender's effect in mediating the relationship between greenspace walking and mental wellbeing, suggesting that the effect was stronger in those who identified as female, whereas previous research indicated that the effect was stronger in those who identify as male.
 - A novel finding was uncovered in that workplace greenness mediates the relationship between greenspace walking and mental wellbeing such that the effect is stronger amongst those whose workplaces scored a lower greenness rating.
 
 ## Project Overview
